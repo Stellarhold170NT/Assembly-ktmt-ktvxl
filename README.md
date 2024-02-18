@@ -15,4 +15,6 @@ Trang web này phù hợp cho tất cả mọi người, từ những người m
 Dù Assembly không phải là ngôn ngữ lập trình phổ biến nhất, nhưng nó lại cho phép lập trình viên làm việc sát với phần cứng, tạo ra các chương trình hiệu quả và tối ưu. Hơn nữa, việc hiểu rõ Assembly cũng giúp bạn hiểu rõ hơn về cách máy tính hoạt động.
 
 
-
+### Contributor
++ [HuyInit](https://github.com/huyinit)
++ [StellarHold170NT](https://github.com/stellarhold170NT)
