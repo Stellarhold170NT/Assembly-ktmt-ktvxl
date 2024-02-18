@@ -1,7 +1,6 @@
 # Assembly-ktmt-ktvxl
-https://stellarhold170nt.github.io/Assembly-ktmt-ktvxl/k%E1%BB%B9-thu%E1%BA%ADt-vi-x%E1%BB%AD-l%C3%BD/l%E1%BA%ADp-tr%C3%ACnh-h%E1%BB%A3p-ng%E1%BB%AF-v%E1%BB%9Bi-8086.html
 
-![https://stellarhold170nt.github.io/Assembly-ktmt-ktvxl]([https://github.com/Stellarhold170NT/Assembly-ktmt-ktvxl/assets/99376592/1aa27be5-244c-4eb1-bb34-d1589b33db82](https://stellarhold170nt.github.io/Assembly-ktmt-ktvxl/k%E1%BB%B9-thu%E1%BA%ADt-vi-x%E1%BB%AD-l%C3%BD/l%E1%BA%ADp-tr%C3%ACnh-h%E1%BB%A3p-ng%E1%BB%AF-v%E1%BB%9Bi-8086.html))
+![https://stellarhold170nt.github.io/Assembly-ktmt-ktvxl](https://github.com/Stellarhold170NT/Assembly-ktmt-ktvxl/assets/99376592/1aa27be5-244c-4eb1-bb34-d1589b33db82](https://stellarhold170nt.github.io/Assembly-ktmt-ktvxl/k%E1%BB%B9-thu%E1%BA%ADt-vi-x%E1%BB%AD-l%C3%BD/l%E1%BA%ADp-tr%C3%ACnh-h%E1%BB%A3p-ng%E1%BB%AF-v%E1%BB%9Bi-8086.html)
 
 ![image](https://github.com/Stellarhold170NT/Assembly-ktmt-ktvxl/assets/99376592/1aa27be5-244c-4eb1-bb34-d1589b33db82)
 
